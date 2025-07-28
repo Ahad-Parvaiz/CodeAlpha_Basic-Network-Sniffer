@@ -1,0 +1,73 @@
+--------------------------------------------------
+[2025-07-28 14:24:34]
+Source IP: 192.168.161.128
+Destination IP: 34.36.137.203
+Protocol: TCP
+Source Port: 32992
+Destination Port: 443
+Payload (hex): 160301029f0100029b03038c50f1076c...
+--------------------------------------------------
+[2025-07-28 14:24:35]
+Source IP: 192.168.161.128
+Destination IP: 34.36.137.203
+Protocol: TCP
+Source Port: 33006
+Destination Port: 443
+Payload (hex): 1603010296010002920303e15438290a...
+--------------------------------------------------
+[2025-07-28 14:24:35]
+Source IP: 34.36.137.203
+Destination IP: 192.168.161.128
+Protocol: TCP
+Source Port: 443
+Destination Port: 32992
+Payload (hex): 160303007a020000760303a22246900c...
+--------------------------------------------------
+[2025-07-28 14:24:35]
+Source IP: 34.36.137.203
+Destination IP: 192.168.161.128
+Protocol: TCP
+Source Port: 443
+Destination Port: 32992
+Payload (hex): ff0e4353e4452d192ea9aca45b0cea1b...
+--------------------------------------------------
+[2025-07-28 14:24:35]
+Source IP: 192.168.161.128
+Destination IP: 34.160.144.191
+Protocol: TCP
+Source Port: 51568
+Destination Port: 443
+Payload (hex): 16030100d3010000cf0303d273ddff74...
+--------------------------------------------------
+[2025-07-28 14:24:36]
+Source IP: 192.168.161.128
+Destination IP: 34.36.137.203
+Protocol: TCP
+Source Port: 32992
+Destination Port: 443
+Payload (hex): 14030300010117030300350c7db2c3f8...
+--------------------------------------------------
+[2025-07-28 14:24:36]
+Source IP: 192.168.161.128
+Destination IP: 34.36.137.203
+Protocol: TCP
+Source Port: 32992
+Destination Port: 443
+Payload (hex): 17030300575515a944c322a568b058c1...
+--------------------------------------------------
+[2025-07-28 14:24:36]
+Source IP: 192.168.161.128
+Destination IP: 34.36.137.203
+Protocol: TCP
+Source Port: 32992
+Destination Port: 443
+Payload (hex): 17030300c1253a5968a62db50352141a...
+--------------------------------------------------
+[2025-07-28 14:24:37]
+Source IP: 192.168.161.128
+Destination IP: 34.160.144.191
+Protocol: TCP
+Source Port: 51568
+Destination Port: 443
+Payload (hex): 16030300251000002120d25328aa53e1...
+--------------------------------------------------
