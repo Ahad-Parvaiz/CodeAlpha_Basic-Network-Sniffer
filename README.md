@@ -57,9 +57,7 @@ Destination Port: 443
 Payload (hex): 160301029f0100029b03038c50f1076c...
 --------------------------------------------------
 ```
-<img width="628" height="1024" alt="image" src="https://github.com/user-attachments/assets/aba3debc-dfc8-465b-bcdb-188c624b9079" />
 
-<img width="619" height="798" alt="image" src="https://github.com/user-attachments/assets/07a972cb-01c3-432f-8151-8b321bf77402" />
 
 
 Press Ctrl + C to stop sniffing.
