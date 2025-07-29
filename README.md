@@ -50,11 +50,11 @@ If you're on Kali Linux and get the externally-managed-environment error:
 3. Output example:
   ```[2025-07-28 14:24:34]
 Source IP: 192.168.161.128
-Destination IP: 34.36.137.203
+Destination IP: 34.36.***.***
 Protocol: TCP
 Source Port: 32992
 Destination Port: 443
-Payload (hex): 160301029f0100029b03038c50f1076c...
+Payload (hex): 16030**************************...
 --------------------------------------------------
 ```
 
